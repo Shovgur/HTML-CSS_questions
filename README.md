@@ -1,4 +1,4 @@
-# HTML-CSS_questions Answer
+# HTML-CSS_questions Answer Шовгур Савелий
 1. Язык разметки
 2. id, class, a, header, head, body, main, footer, table, li, ol
 3. слово при помощи которого выполняется какое либо действие элемента
